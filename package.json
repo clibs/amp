@@ -1,0 +1,9 @@
+{
+  "name": "amp",
+  "version": "0.0.1",
+  "repo": "clibs/amp",
+  "description": "Abstract Message Protocol",
+  "keywords": ["amp", "tcp", "udp", "message", "protocol", "encode", "decode"],
+  "license": "MIT",
+  "src": ["amp.c", "amp.h"]
+}
