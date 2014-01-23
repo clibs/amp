@@ -24,9 +24,10 @@ for (int i = 0; i < msg.argc; ++i) {
 }
 ```
 
-## Todo
+## Implementations
 
- - zerocopy impl
+ - c: this library (~10m ops/s)
+ - [node](https://github.com/visionmedia/node-amp) ~(1.5m ops/s)
 
 # License
 
